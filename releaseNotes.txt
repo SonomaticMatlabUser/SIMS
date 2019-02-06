@@ -1,5 +1,0 @@
-SIMS "TEST"
-SIMS_ToA ""
-ToFD ""
-Microwave ""
-SIMS_SONAR ""
