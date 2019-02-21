@@ -1,4 +1,4 @@
-SIMS "Test release of SIMS_ToA"
+SIMS "Update to running in Batch Mode"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
