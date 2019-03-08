@@ -1,4 +1,4 @@
-SIMS "Update to running in Batch Mode"
+SIMS "Add Boot to Vessel, Inclusion removal feature and tee piece bug fixed."
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
