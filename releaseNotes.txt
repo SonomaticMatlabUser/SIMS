@@ -1,4 +1,4 @@
-SIMS "Add Boot to Vessel, Inclusion removal feature and tee piece bug fixed."
+SIMS "New "River Bottom" and "Profile Plots" and whats new info"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
