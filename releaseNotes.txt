@@ -1,4 +1,4 @@
-SIMS "New "River Bottom" and "Profile Plots" and whats new info"
+SIMS "Update to plotting dome boots"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave "Fix to cscan colour limits"
