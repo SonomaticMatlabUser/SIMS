@@ -1,4 +1,4 @@
-SIMS "Update to plotting dome boots"
+SIMS "Update to axes plotting for distributions and river bottom, phased array data"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave "Fix to cscan colour limits"
