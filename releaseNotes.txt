@@ -1,5 +1,5 @@
 SIMS "Update to axes plotting for distributions and river bottom, phased array data"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
-Microwave "Fix to cscan colour limits"
+Microwave "update ciolour limt shortcuts, downsample data and new b scan slice plot"
 SIMS_SONAR "Update to moving vertically between different thicknesses - option to increment by offset"
