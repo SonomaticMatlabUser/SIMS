@@ -1,4 +1,4 @@
-SIMS "Update to axes plotting for distributions and river bottom, phased array data"
+SIMS ""
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
