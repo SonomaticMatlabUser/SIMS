@@ -1,4 +1,4 @@
-SIMS ""
+SIMS "Update to add dual probe data processing"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
