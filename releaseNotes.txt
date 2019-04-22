@@ -1,4 +1,4 @@
-SIMS "Low memory mode, and improvements to pipe creation"
+SIMS "Update to pipe 2D train plot, speed up plotting bends"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
