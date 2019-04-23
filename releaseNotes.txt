@@ -1,4 +1,4 @@
-SIMS "Update to 2D Pipe train and speed up 3D plotting"
+SIMS "update to 2D train plot order"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave ""
