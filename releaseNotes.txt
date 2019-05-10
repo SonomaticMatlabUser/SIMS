@@ -1,5 +1,5 @@
 SIMS "Update to 2D Train and fix to editing pipe scripts"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
-Microwave "fix for colourmaps and time reseting, addition of compiled updated check"
+Microwave "Fix to B and D scan plotting scales in combi plot"
 SIMS_SONAR "Update to moving vertically between different thicknesses - option to increment by offset"
