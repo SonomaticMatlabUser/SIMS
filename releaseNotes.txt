@@ -1,4 +1,4 @@
-SIMS "Update to 2D Train and fix to editing pipe scripts"
+SIMS "Update to add nominal to colorbar and order of scans overlay"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave "Fix to B and D scan plotting scales in combi plot"
