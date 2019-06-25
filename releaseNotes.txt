@@ -1,4 +1,4 @@
-SIMS "Test"
+SIMS "fix to batch processing"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD ""
 Microwave "Fix to B and D scan plotting scales in combi plot"
