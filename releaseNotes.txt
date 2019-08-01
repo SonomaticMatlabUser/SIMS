@@ -1,5 +1,5 @@
 SIMS "Update to pipework examples"
 SIMS_ToA "Performance Improvement & memory usage"
-ToFD "Update reading uToFD Files"
+ToFD "Update to allow software to use all ascan channels from bulk files."
 Microwave "Fix to B and D scan plotting scales in combi plot"
 SIMS_SONAR "Update to moving vertically between different thicknesses - option to increment by offset"
