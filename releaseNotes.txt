@@ -1,4 +1,4 @@
-SIMS "save bug fix, update to pipe examples"
+SIMS "see redmine #743 for updates"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update to allow software to use all ascan channels from bulk files."
 Microwave "Fix to B and D scan plotting scales in combi plot"
