@@ -1,4 +1,4 @@
-SIMS "see redmine #743 for updates"
+SIMS "addition of ascan processing help"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update thickness when manually setting lateral"
 Microwave "Fix to B and D scan plotting scales in combi plot"
