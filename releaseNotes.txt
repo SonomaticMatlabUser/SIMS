@@ -1,4 +1,4 @@
-SIMS "minor bug fixes see redmine issue 851"
+SIMS "bug fix on bend creation, update to word documents"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update thickness when manually setting lateral"
 Microwave "Fix to B and D scan plotting scales in combi plot"
