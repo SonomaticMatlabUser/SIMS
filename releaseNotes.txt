@@ -1,4 +1,4 @@
-SIMS "bug fix on bend creation, update to word documents"
+SIMS "udpate to add logos to images"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update thickness when manually setting lateral"
 Microwave "Fix to B and D scan plotting scales in combi plot"
