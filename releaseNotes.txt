@@ -1,4 +1,4 @@
-SIMS "DRS Update - see remdine #720"
+SIMS "Dome plotting & DRS analysis updates"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update thickness when manually setting lateral"
 Microwave "Fix to B and D scan plotting scales in combi plot"
