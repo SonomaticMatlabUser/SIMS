@@ -1,4 +1,4 @@
-SIMS "pipe compare mode, ICT updates"
+SIMS "Added pipe compare mode"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "Update thickness when manually setting lateral"
 Microwave "Fix to B and D scan plotting scales in combi plot"
