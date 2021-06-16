@@ -1,4 +1,4 @@
-SIMS "test compilation"
+SIMS "test compile"
 SIMS_ToA "Performance Improvement & memory usage"
 ToFD "fixing redmine #1406"
 Microwave "Fix to B and D scan plotting scales in combi plot"
