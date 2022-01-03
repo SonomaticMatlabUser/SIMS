@@ -1,17 +1,17 @@
 #Team	true
 #Location	true
-	team	base	launch	file access	process	RAM	Clock Speed	processor	no cores
-SIMS laptop	ES	UK	46.08	66.02	12.78	16281	2301	Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz	2
-Jack laptop	ES	UK	24.94	25.08	6.97	16262	1800	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz	4
-photogrammetry	ES	UK	18.23	19.64	1.73	32,612	3600	Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz	8
-callum NUC	ES	UK	20.12	26.11	3.39	16252	2712	Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz	4
-Alison’s Laptop (ex NII Laptop)	ES	UK	21.41	25.13	2.65	32,627	2201	Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz	6
-Russ Price	FS	UK	38.73	48.13	13.85	16271	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
-Steve Oliver	FS	UK	99	99	99	4,000	NaN	win 32	2
-Matthew Fleming	ES	UK	51.18	41.88	9.3	8099	2201	Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz	2
-Marzena	ES	UK	37.64	48.65	6.72	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
-Shona Ward	ES	UK	26	29.47	4.66	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
-Tara Emslie	ES	UK	27.3	30.13	4.9	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 	4
-Chris Priest	FS	UK	76.4	93.6	16.74	8079	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
-Marc Priest	FS	UK	34.2	67.7	16.04	3983	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
-Kirstie Hadley	ES	UK	25.1	27.5	4.85	22474	3500	AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx	4
+name	team	base	launch	file access	cache access	process	RAM	Clock Speed	processor	no cores
+SIMS laptop	ES	UK	46.08	66.02	NaN	12.78	16281	2301	Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz	2
+Jack laptop	ES	UK	24.94	25.08	NaN	6.97	16262	1800	Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz	4
+photogrammetry	ES	UK	18.23	19.64	NaN	1.73	32,612	3600	Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz	8
+callum NUC	ES	UK	20.12	26.11	NaN	3.39	16252	2712	Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz	4
+Alison’s Laptop (ex NII Laptop)	ES	UK	21.41	25.13	NaN	2.65	32,627	2201	Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz	6
+Russ Price	FS	UK	38.73	48.13	NaN	13.85	16271	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
+Steve Oliver	FS	UK	99	99	NaN	99	4,000	NaN	win 32	2
+Matthew Fleming	ES	UK	51.18	41.88	NaN	9.3	8099	2201	Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz	2
+Marzena	ES	UK	37.64	48.65	NaN	6.72	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
+Shona Ward	ES	UK	26	29.47	NaN	4.66	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
+Tara Emslie	ES	UK	27.3	30.13	NaN	4.9	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 	4
+Chris Priest	FS	UK	76.4	93.6	NaN	16.74	8079	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
+Marc Priest	FS	UK	34.2	67.7	NaN	16.04	3983	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
+Kirstie Hadley	ES	UK	25.1	27.5	NaN	4.85	22474	3500	AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx	4
