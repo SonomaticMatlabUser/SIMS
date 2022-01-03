@@ -15,3 +15,5 @@ Tara Emslie	ES	UK	27.3	30.13	NaN	4.9	16279	1800	Intel(R) Core(TM) i5-8250U CPU @
 Chris Priest	FS	UK	76.4	93.6	NaN	16.74	8079	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
 Marc Priest	FS	UK	34.2	67.7	NaN	16.04	3983	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
 Kirstie Hadley	ES	UK	25.1	27.5	NaN	4.85	22474	3500	AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx	4
+Llyod Kimble	ES	AUS	19.99	24	NaN	1.84	16159	2208	Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz	8
+Jake Davies	ES	AUS	19.99	24	NaN	1.84	16159	2208	Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz	8
