@@ -17,3 +17,7 @@ Marc Priest	FS	UK	34.2	67.7	NaN	16.04	3983	2501	Intel(R) Core(TM) i5-2520M CPU @
 Kirstie Hadley	ES	UK	25.1	27.5	NaN	4.85	22474	3500	AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx	4
 Llyod Kimble	ES	AUS	19.99	24	NaN	1.84	16159	2208	Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz	8
 Jake Davies	ES	AUS	19.99	24	NaN	1.84	16159	2208	Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz	8
+Robert Paton	FS	AUS	18.01	24.19	1.78	4.42	16264	1992	Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz	4
+Tyron Kimble	ES	AUS	23.68	24.25	1.95	2.52	16235	2592	Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz	6
+Jonathan Lilley	FS	UK	22.16	20.04	1.69	1.96	15773	2000	AMD Ryzen 7 4700U with Radeon Graphics	8
+Ben Jerrem	FS	UK	45.37	76.82	2.98	11.66	8055	2601	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz	2
