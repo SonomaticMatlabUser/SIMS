@@ -7,8 +7,8 @@ photogrammetry	ES	UK	18.23	19.64	NaN	1.73	32,612	3600	Intel(R) Core(TM) i7-9700K
 callum NUC	ES	UK	20.12	26.11	NaN	3.39	16252	2712	Intel(R) Core(TM) i7-8559U CPU @ 2.70GHz	4
 Alison’s Laptop (ex NII Laptop)	ES	UK	21.41	25.13	NaN	2.65	32,627	2201	Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz	6
 Russ Price	FS	UK	38.73	48.13	NaN	13.85	16271	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz	2
-Steve Oliver	FS	UK	NaN	NaN	NaN	NaN	4,000	NaN	win 32	2
-Matthew Fleming	ES	UK	51.18	41.88	NaN	9.3	8099	2201	Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz	2
+Steve Oliver	FS	UK	99	99	99	99	4,000	NaN	win 32	2
+Matthew Fleming	ES	UK	51.18	41.88	2.5	9.3	8099	2201	Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz	2
 Marzena	ES	UK	37.64	48.65	NaN	6.72	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
 Shona Ward	ES	UK	26	29.47	NaN	4.66	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz	4
 Tara Emslie	ES	UK	27.3	30.13	NaN	4.9	16279	1800	Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 	4
