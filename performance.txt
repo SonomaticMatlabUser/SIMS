@@ -28,4 +28,4 @@ GETAC Dell 7424 4	Tech Pool	UK	19.16	28.94	1.85	4.39	32646	1896	Intel(R) Core(TM
 GETAC Dell 7424 5	Tech Pool	UK	19.16	28.94	1.85	4.39	32646	1896	Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz	4
 GETAC Dell 7424 6	Tech Pool	UK	19.16	28.94	1.85	4.39	32646	1896	Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz	4
 Kevin McDonald	ES	UK	57.96	63.72	3.79	16.99	8126	2100	Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz	2
-Callum Davidson	FS	UK	23.6	20.2	1.69	2.1	15773	2000	AMD Ryzen 7 4700U with Radeon Graphics	8
+Callum Davidson	FS	UK	23.6	20.2	1.69	2.10	15773	2000	AMD Ryzen 7 4700U with Radeon Graphics	8
