@@ -30,3 +30,5 @@ GETAC Dell 7424 6	Tech Pool	UK	19.16	28.94	1.85	4.39	32646	1896	Intel(R) Core(TM
 Kevin McDonald	ES	UK	57.96	63.72	3.79	16.99	8126	2100	Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz	2
 Callum Davidson	FS	UK	23.6	20.2	1.69	2.10	15773	2000	AMD Ryzen 7 4700U with Radeon Graphics	8
 DJ Laptop	FS	USA	18.7	31.99	2.39	3.72	16316	2401	Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz	4
+JLSM	Tech Pool	USA	15.35	24.28	1.66	3.34	32565	2901	Intel(R) Core(TM) i7-7820HQ CPU @ 2.90GHz	4
+John Stebbings	FS	USA	13.63	17.96	1.43	3	7931	1690	11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz	4
