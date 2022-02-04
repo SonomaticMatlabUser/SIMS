@@ -35,3 +35,4 @@ John Stebbings	FS	USA	13.63	17.96	1.43	3	7931	1690	11th Gen Intel(R) Core(TM) i7
 JLSM/PAUT/DRS Dell	Tech Pool	USA	22.33	23.93	1.61	3.93	16218	2001	Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz	4
 Steve Smith	FS	UK	70.20	76.06	2.81	11.28	8055	2601	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz	2
 Maurits Schultz	FS	UK	35.20	57.68	5.35	12.86	8055	2601	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz	2
+Adam Crelin	FS	UK	29.24	74.22	7.81	14.08	3983	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz  	2
