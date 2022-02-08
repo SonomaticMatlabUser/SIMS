@@ -36,3 +36,4 @@ JLSM/PAUT/DRS Dell	Tech Pool	USA	22.33	23.93	1.61	3.93	16218	2001	Intel(R) Core(
 Steve Smith	FS	UK	70.20	76.06	2.81	11.28	8055	2601	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz	2
 Maurits Schultz	FS	UK	35.20	57.68	5.35	12.86	8055	2601	Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz	2
 Adam Crelin	FS	UK	29.24	74.22	7.81	14.08	3983	2501	Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz  	2
+Robert Cumming	ES	UK	14.49	17.69	1.44	1.31	32547	2304	11th Gen Intel(R) Core(TM) u7-11800H @ 2.3GHz	8
